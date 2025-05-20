@@ -1,4 +1,4 @@
-# VALUE ITERATION ALGORITHM
+# EXP 4 -VALUE ITERATION ALGORITHM
 
 ## AIM
 To find an optimal policy for an agent navigating a grid-world with slippery tiles, aiming to reach a goal state while maximizing expected rewards using value iteration algorithm.
